@@ -55,6 +55,13 @@ export PATH=$M2:$PATH
 ~$ mvn archetype:generate
 ```
 
+```
+groupId: com.proyecto
+artifactid: primer-proyecto
+version: 1.0
+package: com.proyecto.demo
+```
+
 ## Para pasar los test 
 
 -Te tienes que ir a la carpeta donde se encuentre el fichero de pom.xml
