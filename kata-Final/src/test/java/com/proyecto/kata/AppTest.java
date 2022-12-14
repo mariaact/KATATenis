@@ -13,8 +13,8 @@ public class AppTest
      * Rigorous Test :-)
      */
     @Test
-    public void shouldAnswerWithTrue()
+    public void TestComprobarDosIguales()
     {
-        assertTrue( true );
+        assertEquals("e", App.bowling_score("dd"));
     }
 }
